@@ -1,0 +1,3 @@
+npx create-react-app 01.my-app
+cd 01.my-app
+npm start
