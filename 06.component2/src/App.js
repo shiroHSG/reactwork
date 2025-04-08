@@ -1,8 +1,7 @@
 import './App.css';
 import MyHeader from './MyHeader';
 import MyFooter from './MyFooter';
-import Compo1 from './component/Compo1'
-
+import Compo1 from './component/Compo1';
 
 function App() {
   return (

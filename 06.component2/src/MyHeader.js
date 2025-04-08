@@ -1,4 +1,4 @@
-function MyHeader() {
+const MyHeader = () => {
     return <header>헤더영역</header>
 }
 
