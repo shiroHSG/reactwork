@@ -1,8 +1,8 @@
-function Header() {
-    return(
+const Header = () => {
+    return (
         <div className='Header'>
-            <h3>TODOLIST</h3>
-            <h2>{new Date().toDateString()}</h2>
+            <h2>TODOLIST</h2>
+            <h3>{new Date().toDateString()}</h3>
         </div>
     )
 }

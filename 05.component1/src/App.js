@@ -48,6 +48,7 @@ function App() {
       <Com1></Com1>
       <Com1/>
       <Com1/>
+
     </div>
   );
 }
