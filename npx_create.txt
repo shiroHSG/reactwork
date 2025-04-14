@@ -1,3 +1,6 @@
 npx create-react-app 01.my-app
 cd 01.my-app
 npm start
+
+라우터넣기
+npm i react-router-dom
